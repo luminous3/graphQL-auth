@@ -30,6 +30,7 @@ class AuthForm extends Component {
           <div className="input-field">
             <input
               placeholder="Password"
+              type="password"
               value={this.state.password}
               onChange={e => this.setState({ password: e.target.value })}
             />
