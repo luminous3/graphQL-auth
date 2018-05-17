@@ -1,3 +1,3 @@
 # GraphQL auth
 
-Application using GraphQL and Passport
+Auth app using GraphQL and Passport
